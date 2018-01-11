@@ -345,13 +345,13 @@
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		border-bottom: dotted 1px rgba(255, 255, 255, 0.25);
-		color: #FF6600;
+		color: #F39C12;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #FF6600 !important;
+			color: #F39C12 !important;
 			text-decoration: none;
 		}
 
@@ -628,7 +628,7 @@
 			}
 
 			form .message.success {
-				color: #FF6600;
+				color: #F39C12;
 			}
 
 				form .message.success:before {
@@ -790,7 +790,7 @@
 			-ms-animation: focus 0.1s;
 			animation: focus 0.1s;
 			background-color: rgba(255, 255, 255, 0.125);
-			border-color: #FF6600;
+			border-color: #F39C12;
 		}
 
 	.select-wrapper {
@@ -892,16 +892,16 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #FF6600;
-			border-color: #FF6600;
+			background: #F39C12;
+			border-color: #F39C12;
 			color: #ffffff;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #FF6600;
-			box-shadow: 0 0 0 2px #FF6600;
+			border-color: #F39C12;
+			box-shadow: 0 0 0 2px #F39C12;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -972,7 +972,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #FF6600;
+			background-color: #F39C12;
 		}
 
 		input[type="submit"]:active,
@@ -1189,6 +1189,6 @@
 	/* Logo */	
 		.symbol img {
     display: block;
-    width: 8em;
-    height: 2em;
+    width: 7em;
+    height: 7em;
 }
