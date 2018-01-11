@@ -1,0 +1,27 @@
+# Site settings
+title: RUFTEX
+email: hello@sufnitextil.eu
+description-en: Workwear for ROUGH environments.
+description-hu: Munkaruha a KEMÉNY helyekre.
+mailing-en: Sign up for our mailinglist and receive updates about our launch date.
+mailing-hu: Iratkozzon fel hírlevelünkre, hogy elsőként értesüljön új kollekciónkról.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://ruftex.eu" # the base hostname & protocol for your site
+
+# Social settings
+500px_url:
+facebook_url: "http://facebook.com/Ruftex-137042636884949/"
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: "https://www.instagram.com/ruftexworkwear/"
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: "https://twitter.com/ruftexworkwear"
+
+# Build settings
+markdown: kramdown
+
+# Logo settings
+logo-image-url: assets/images/logo.svg
