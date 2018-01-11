@@ -41,9 +41,7 @@
 						images: {
 							'assets/images/bg01.jpeg': 'center',
 							'assets/images/bg02.jpeg': 'center',
-							'assets/images/bg03.jpeg': 'center',
-							'assets/images/bg04.jpeg': 'center',
-							'assets/images/bg05.jpeg': 'center'
+							'assets/images/bg03.jpeg': 'center'
 						},
 
 					// Delay.
