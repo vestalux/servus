@@ -1,8 +1,8 @@
 # Site settings
 title: Servus
 email: info@servushotel.eu
-description-en: Workwear for ROUGH environments.
-description-hu: Munkaruha a KEMÉNY helyekre.
+description-en: Boutique  Hotel in the country
+description-hu: MEgy vidéki Boutique Hotel
 mailing-en: Sign up for our mailinglist and receive updates about our opening.
 mailing-hu: Iratkozzon fel hírlevelünkre, hogy első vengégeink között legyen.
 baseurl: "/" # the subpath of your site, e.g. /blog
