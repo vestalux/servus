@@ -1,24 +1,24 @@
 # Site settings
-title: RUFTEX
-email: hello@sufnitextil.eu
+title: Servus
+email: info@servushotel.eu
 description-en: Workwear for ROUGH environments.
 description-hu: Munkaruha a KEMÉNY helyekre.
-mailing-en: Sign up for our mailinglist and receive updates about our launch date.
-mailing-hu: Iratkozzon fel hírlevelünkre, hogy elsőként értesüljön új kollekciónkról.
+mailing-en: Sign up for our mailinglist and receive updates about our opening.
+mailing-hu: Iratkozzon fel hírlevelünkre, hogy első vengégeink között legyen.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://ruftex.eu" # the base hostname & protocol for your site
+url: "http://servushotel.eu" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
-facebook_url: "http://facebook.com/Ruftex-137042636884949/"
+facebook_url: ""
 github_url:
 gitlab_url: 
 googleplus_url: 
-instagram_url: "https://www.instagram.com/ruftexworkwear/"
+instagram_url: ""
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: "https://twitter.com/ruftexworkwear"
+twitter_url: ""
 
 # Build settings
 markdown: kramdown
