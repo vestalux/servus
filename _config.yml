@@ -10,15 +10,15 @@ url: "http://servushotel.eu" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
-facebook_url: ""
+facebook_url: "https://www.facebook.com/servushotel"
 github_url:
 gitlab_url: 
 googleplus_url: 
-instagram_url: ""
+instagram_url: "https://www.instagram.com/servushotel"
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: ""
+twitter_url: "https://twitter.com/servushotel"
 
 # Build settings
 markdown: kramdown
